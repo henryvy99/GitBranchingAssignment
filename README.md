@@ -8,3 +8,4 @@ Adding some stuff to commit the 3rd time
 >>>>>>> BranchA
 
 Now we are in BranchC
+Adding more for 2nd commit
