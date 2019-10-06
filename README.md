@@ -1,2 +1,2 @@
 # GitBranchingAssignment
-This is branch A
+This is branch B
