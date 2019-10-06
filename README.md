@@ -1,3 +1,4 @@
 # GitBranchingAssignment
 This is branch A
-Add some stuff to commit the 2nd time
+Adding some stuff to commit the 2nd time
+Adding some stuff to commit the 3rd time
